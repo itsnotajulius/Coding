@@ -1,20 +1,22 @@
-<style>
-  .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  img {
-    max-width: 100%;
-  }
-  .image {
-    flex-basis: 200%;
-  }
-  .text {
-    font-size: 20px;
-    padding-left: 20px;
-  }
-</style>
+<head>
+    <style>
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    img {
+        max-width: 100%;
+    }
+    .image {
+        flex-basis: 200%;
+    }
+    .text {
+        font-size: 20px;
+        padding-left: 20px;
+    }
+    </style>
+</head>
 
 # Hello
 
